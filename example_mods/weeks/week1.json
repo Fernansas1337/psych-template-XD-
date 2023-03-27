@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"meeting",
+			"marcossas",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"fun-time",
+			"marcossas",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"rematch",
+			"marcossas",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"the-fight",
+			"marcossas",
+			[
+				155,
+				115,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "blue",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "hagan sus",
+	"weekName": "weekm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
