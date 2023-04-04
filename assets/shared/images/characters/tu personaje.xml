@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tu personaje.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tu personaje Sing Note DOWN0000" x="5" y="5" width="303" height="707"/>
+	<SubTexture name="tu personaje Sing Note DOWN0001" x="318" y="5" width="303" height="692"/>
+	<SubTexture name="tu personaje Sing Note DOWN0002" x="631" y="5" width="303" height="689"/>
+	<SubTexture name="tu personaje Sing Note LEFT0000" x="1642" y="669" width="332" height="672"/>
+	<SubTexture name="tu personaje Sing Note LEFT0001" x="5" y="1351" width="343" height="672"/>
+	<SubTexture name="tu personaje Sing Note LEFT0002" x="358" y="1351" width="341" height="669"/>
+	<SubTexture name="tu personaje Sing Note RIGHT0000" x="1335" y="5" width="299" height="646"/>
+	<SubTexture name="tu personaje Sing Note RIGHT0001" x="1335" y="661" width="297" height="648"/>
+	<SubTexture name="tu personaje Sing Note RIGHT0002" x="1644" y="5" width="300" height="654"/>
+	<SubTexture name="tu personaje Sing Note UP0000" x="944" y="5" width="381" height="694" />
+	<SubTexture name="tu personaje idle dance0000" x="709" y="1351" width="303" height="707"/> 
+	<SubTexture name="tu personaje idle dance0001" x="1022" y="1351" width="303" height="695"/>
+	<SubTexture name="tu personaje idle dance0002" x="1335" y="1351" width="303" height="686"/>
+	
+</TextureAtlas>
